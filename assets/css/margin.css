@@ -1,0 +1,36 @@
+div {
+    margin-bottom: 20px;
+    text-align: center; 
+    color: #e805e8;
+    font-weight: bold; /* negrito */
+    background-color: rgb(49, 15, 81)
+
+
+}
+
+h1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+p{
+    font-family: arial;
+    color: blue;
+
+}
+
+body{
+    background-color: #ffebcd;
+} 
+
+body{
+    background-color: #ffebcd;
+}
+ 
+ img {
+    height: 400px;
+    margin-right: 45px;
+
+ }

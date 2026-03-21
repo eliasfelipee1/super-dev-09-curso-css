@@ -1,0 +1,82 @@
+body {
+    font-family: arial, sans-serif;
+    background-color: #111;
+    color: #eee;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+} 
+
+h1 {
+    background-color: #ff4757;
+    padding: 20px; /* 20px em todos os lados */
+    text-align: center;
+    color: white;
+
+}
+
+h2{
+    background-color: #1e90ff;
+    padding: 10px;
+    color: white;
+}
+
+h3{
+    color: #ffa502;
+    padding: 5px;
+} 
+
+p {
+    background-color: #2f3542;
+    padding: 15px;
+}
+
+div {
+    background-color: #57606f;
+    padding: 20px;
+}
+
+section {
+    background-color: #3742fa;
+    padding: 20px;
+}
+
+ul {
+    background-color: #2ed573;
+    padding: 20px;
+
+}
+
+li {
+    padding: 10px;
+} 
+
+button { 
+    background-color: #ff6b81;
+    color:  white;
+    padding: 15px 25px;
+    border: none;
+}
+
+
+/* quando passar o mouse no botao troca o icone do mouse */
+button:hover{
+    cursor: pointer;
+}
+
+input {
+    padding: 10px;
+    width: 200px;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+
+
+
+
+   
+  
