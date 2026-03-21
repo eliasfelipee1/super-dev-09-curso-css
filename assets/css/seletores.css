@@ -1,0 +1,50 @@
+/* seletor de tag */
+h1 {
+    color: violet;
+}
+
+/* seletor de id */
+#caixa1 {
+    background-color: aquamarine;
+    /* margin-right: 30px; */
+    margin-right: 20%;
+} 
+
+#caixa2 {
+    background-color: tomato;
+    margin-right: 20px;
+}
+
+#caixa3 {
+    background-color: palegreen;
+    margin-right: 20px;
+}
+
+#caixa4 {
+    background-color: brown;
+}
+
+/* todos os elementos que tem este id sera aplicado o margin-top */
+#caixa1, #caixa2, #caixa3, #caixa4 {
+    margin-top: 200px;
+}
+
+/* seletor de CLASSE (reaproveitador CSS) */
+.caixa {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+    transition: transform 3s ease;
+}
+
+.cor preto {
+    color: #000;
+}
+
+.cor branco {
+    color: #fff;
+}
+
+
+
